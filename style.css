@@ -21,17 +21,17 @@ body {
 }
 
 .border {
-  border: 3px solid #fff;
+  border: 5px solid #fff;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 24px;
+  padding: 34px;
   border-radius: 24px;
 }
 
 .number {
-  font-size: 64px;
+  font-size: 86px;
   user-select: all;
 }
 
@@ -39,14 +39,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 34px;
-  margin-top: 24px;
+  gap: 46px;
+  margin-top: 36px;
 }
 
 .icon {
   stroke: #fff;
-  height: 46px;
-  width: 46px;
+  height: 64px;
+  width: 64px;
   cursor: pointer;
 }
 
@@ -54,7 +54,7 @@ body {
   position: absolute;
   top: 3%;
   right: 2%;
-  height: 24px;
-  width: 24px;
+  height: 46px;
+  width: 46px;
   cursor: pointer;
 }
