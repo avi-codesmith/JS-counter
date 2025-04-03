@@ -68,3 +68,9 @@ body {
 p {
   font-size: 34px;
 }
+
+@media (max-width: 1300px) {
+  span {
+    display: none;
+  }
+}
